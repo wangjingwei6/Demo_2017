@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Demo2017</string>
+    <string name="selected">完成(%1$s/%2$s)</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

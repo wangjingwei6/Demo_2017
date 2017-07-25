@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/addcontent_tv"
+    android:layout_width="match_parent"
+    android:layout_height="42dp"
+    android:padding="12dp"
+    android:layout_marginBottom="16dp"
+    android:layout_marginTop="24dp"
+    android:background="@drawable/rela_background"
+    android:gravity="center"
+    android:text="+ 添加内容"
+    android:textColor="#ff2f58"
+    android:textSize="18sp" >
+
+</TextView>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/addcontent_tv"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@drawable/rela_background"
+        android:gravity="center"
+        android:text="+ 添加内容"
+        android:textColor="#ff2f58"
+        android:textSize="18sp" >
+    </TextView>
+
+    <View
+        android:id="@+id/myView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#AF000000"
+       />
+    <!-- #AF000000 70%透明灰 -->
+
+</FrameLayout>
